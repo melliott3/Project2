@@ -1,41 +1,39 @@
 body {
   margin: auto;
+  background: lightgray;
 }
 title {
   margin: auto;
   color: lightblue;
   text-align: center;
   line-height: normal;
+  background: darkgray;
 }
-.main-nav{
+nav {
   border: 4px inset gray;
   width: 20px;
   height: 20px;
   border: 3px groove black;
-  
-}
-h3 {
   text-align: left;
+  font-family: 'Permanent Marker', cursive;
+  font-color: grey;
+  background: darkgray;
 }
-h2 {
-  text-align: left;
-}
-th {
-  text-align: left;
-  height: 50px;
-  vertical-align: bottom;
-  border-bottom: 1px solid #ddd;
-}
-td {
+h1 {
   text-align: center;
-  height: 50px;
-  vertical-align: bottom;
+  font-family: 'Supermercado One', sans-serif;
+  font-color: lightblue;
+  background: darkgray;
 }
-table {
-  border-collapse: collapse;
-  width: 100%;
+h2, h3, h4 {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-color: lightgreen;
+  background: darkgray;
 }
-  
-th, td {
-  padding: 15px;
+p {
+  text-align: left;
+  font-family: 'Tilt Neon', sans-serif;
+  font-color: brightred;
+  background: darkgray;
 }
