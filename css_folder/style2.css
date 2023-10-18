@@ -16,7 +16,7 @@ ul {
   margin: 0;
   padding: 0;
   border: 4px groove white;
-  text-align: left;
+  text-align: right;
   font-family: 'Permanent Marker', cursive;
   color: grey;
   background-color: #6e6d6a;
@@ -48,6 +48,6 @@ h2 {
 p {
   text-align: left;
   font-family: 'Tilt Neon', sans-serif;
-  color: #c41d1d;
+  color: black;
   background: #6e6d6a;
 }
