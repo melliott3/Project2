@@ -1,6 +1,6 @@
 body {
   margin: auto;
-  background: lightgray;
+  background-color: #e3e1dc;
 }
 
 title {
@@ -8,18 +8,18 @@ title {
   color: lightblue;
   text-align: center;
   line-height: normal;
-  background: darkgray;
+  background-color: #6e6d6a;
 }
 
 nav {
-  border: 4px inset gray;
+  border: 4px inset #bab8b1;
   width: 20px;
   height: 20px;
   border: 3px groove black;
   text-align: left;
   font-family: 'Permanent Marker', cursive;
-  font-color: grey;
-  background: darkgray;
+  color: grey;
+  background-color: #6e6d6a;
 }
 
 iframe {
@@ -29,20 +29,20 @@ iframe {
 h1 {
   text-align: center;
   font-family: 'Supermercado One', sans-serif;
-  font-color: lightblue;
-  background: darkgray;
+  color: #4fc4d1;
+  background-color: #6e6d6a;
 }
 
 h2, h3, h4 {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
-  font-color: lightgreen;
-  background: darkgray;
+  color: #15eb6e;
+  background-color: #6e6d6a;
 }
 
 p {
   text-align: left;
   font-family: 'Tilt Neon', sans-serif;
-  font-color: brightred;
-  background: darkgray;
+  color: #c41d1d;
+  background: #6e6d6a;
 }
