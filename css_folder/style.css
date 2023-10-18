@@ -8,7 +8,6 @@ title {
   color: lightblue;
   text-align: center;
   line-height: normal;
-  background-color: #6e6d6a;
 }
 
 ul {
@@ -19,7 +18,6 @@ ul {
   text-align: left;
   font-family: 'Permanent Marker', cursive;
   color: grey;
-  background-color: #6e6d6a;
 }
 
 iframe {
@@ -30,19 +28,16 @@ h1 {
   text-align: center;
   font-family: 'Supermercado One', sans-serif;
   color: #4fc4d1;
-  background-color: #6e6d6a;
 }
 
 h2, h3, h4 {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
   color: #15eb6e;
-  background-color: #6e6d6a;
 }
 
 p {
   text-align: left;
   font-family: 'Tilt Neon', sans-serif;
   color: #c41d1d;
-  background: #6e6d6a;
 }
