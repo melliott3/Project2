@@ -11,11 +11,11 @@ title {
   background-color: #6e6d6a;
 }
 
-nav {
-  border: 4px inset #bab8b1;
-  width: 20px;
-  height: 20px;
-  border: 3px groove black;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 3px dotted black;
   text-align: left;
   font-family: 'Permanent Marker', cursive;
   color: grey;
