@@ -23,7 +23,7 @@ ul {
 }
 
 image {
-  border: 6px rigid black;
+  border: 6px inset black;
 }
 
 div {
