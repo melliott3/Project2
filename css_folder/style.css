@@ -2,6 +2,7 @@ body {
   margin: auto;
   background: lightgray;
 }
+
 title {
   margin: auto;
   color: lightblue;
@@ -9,6 +10,7 @@ title {
   line-height: normal;
   background: darkgray;
 }
+
 nav {
   border: 4px inset gray;
   width: 20px;
@@ -19,18 +21,25 @@ nav {
   font-color: grey;
   background: darkgray;
 }
+
+iframe {
+  border: 4px groove black;
+}
+
 h1 {
   text-align: center;
   font-family: 'Supermercado One', sans-serif;
   font-color: lightblue;
   background: darkgray;
 }
+
 h2, h3, h4 {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
   font-color: lightgreen;
   background: darkgray;
 }
+
 p {
   text-align: left;
   font-family: 'Tilt Neon', sans-serif;
