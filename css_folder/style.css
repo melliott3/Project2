@@ -70,8 +70,8 @@ p {
 }
 
 .plant, 
-.uranium, 
-.headshot {
+.headshot,  
+.uranium {
   width: 200px;
   height: 250px;
   border: 8px inset black;
