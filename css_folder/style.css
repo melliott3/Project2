@@ -15,7 +15,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border: 3px dotted silver;
+  border: 4px dotted silver;
   text-align: left;
   font-family: 'Permanent Marker', cursive;
   color: grey;
@@ -29,34 +29,45 @@ li a {
   display: block;
   color: silver;
   text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: 45px;
+  margin-left: 55px;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: #348;
 }
 
 .active {
-  background-color: #04AA6D;
+  background-color: #6dfafc;
 }
 
 iframe {
-  border: 4px groove black;
+  border: 6px groove #1e2121;
 }
 
-h1 {
+h1, h2 {
   text-align: center;
   font-family: 'Supermercado One', sans-serif;
   color: skyblue;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: 45px;
+  margin-left: 55px;
 }
 
-h2, h3, h4, h5 {
-  
+h3, h4, h5 {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
   color: pink;
   background-color: silver;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: 45px;
+  margin-left: 55px;
 }
 
 p {
@@ -70,16 +81,26 @@ p {
 }
 
 .plant, 
-.headshot,  
-.uranium {
+.uranium, 
+.headshot {
   width: 200px;
   height: 250px;
   border: 8px inset black;
+  float: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: 45px;
+  margin-left: 55px;
 }
 
 img {
   width: 200px;
   height: 250px;
+  float: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: 45px;
+  margin-left: 55px;
 }
 
 .skills,
