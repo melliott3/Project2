@@ -77,6 +77,11 @@ p {
   border: 8px inset black;
 }
 
+img {
+  width: 200px;
+  height: 250px;
+}
+
 .skills,
 .exp {
   text-align: left;
