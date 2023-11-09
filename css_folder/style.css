@@ -47,6 +47,10 @@ li a:hover:not(.active) {
   background-color: #6dfafc;
 }
 
+.active:hover {
+  background-color: #6dfafc;
+}
+
 iframe {
   border: 6px groove #1e2121;
 }
@@ -87,6 +91,11 @@ p {
 .headshot {
   width: 200px;
   height: 250px;
+}
+
+img {
+  width: 200px;
+  height: 250px;
   border: 8px inset black;
   float: center;
   margin-top: 30px;
@@ -94,6 +103,7 @@ p {
   margin-right: 45px;
   margin-left: 55px;
 }
+
 
 .skills,
 .exp {
