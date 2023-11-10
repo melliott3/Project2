@@ -96,6 +96,7 @@ img {
   width: 200px;
   height: 250px;
   border: 8px inset black;
+  border-radius: 5px;
   float: center;
   margin-top: 30px;
   margin-bottom: 20px;
@@ -109,6 +110,7 @@ img {
   text-align: left;
   font-family: 'Tilt Neon', sans-serif;
   color: pink;
+  border-radius: 25px;
   margin-top: 30px;
   margin-bottom: 20px;
   margin-right: 45px;
