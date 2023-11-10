@@ -48,17 +48,27 @@ li a:hover:not(.active) {
 }
 
 .active:hover {
-  background-color: #6dfafc;
+  background-color: skyblue;
 }
 
 iframe {
   border: 6px groove #1e2121;
 }
 
-h1, h2 {
+h1 {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   color: skyblue;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-right: 45px;
+  margin-left: 55px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: lightblue;
   margin-top: 30px;
   margin-bottom: 20px;
   margin-right: 45px;
@@ -104,7 +114,6 @@ img {
   margin-left: 55px;
 }
 
-
 .skills,
 .exp {
   text-align: left;
@@ -115,4 +124,14 @@ img {
   margin-bottom: 20px;
   margin-right: 45px;
   margin-left: 55px;
+}
+
+section {
+  color: black;
+  background: linear-gradient(180deg, #ad2a5c 80px, white 10px);
+  width: 80%;
+  overflow: auto;
+  padding: 20px;
+  box-shadow: 0px 0px 0px 3px #7a1191, 0px 0px 0px 8px #1437a3;
+  margin: 40px auto;
 }
