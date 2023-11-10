@@ -13,14 +13,14 @@ title {
 ul {
   list-style-type: none;
   margin: auto;
-  width: 50%;
+  width: 25%;
   padding: 0rem;
   overflow: hidden;
   border: 0.5em dotted silver;
   border-radius: 10px 45px;
-  text-align: left;
+  text-align: center;
   font-family: 'Supermercado One', sans-serif;
-  color: grey;
+  color: black;
 }
 
 li {
@@ -67,7 +67,7 @@ h1 {
 
 h2 {
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Permanent Marker', cursive;
   color: lightblue;
   margin-top: 30px;
   margin-bottom: 20px;
@@ -120,6 +120,7 @@ img {
   font-family: 'Tilt Neon', sans-serif;
   color: pink;
   border-radius: 25px;
+  padding: 10px;
   margin-top: 30px;
   margin-bottom: 20px;
   margin-right: 45px;
@@ -127,7 +128,8 @@ img {
 }
 
 section {
-  color: black;
+  border: black;
+  border-radius: 20px;
   background: linear-gradient(180deg, #ad2a5c 80px, white 10px);
   width: 80%;
   overflow: auto;
