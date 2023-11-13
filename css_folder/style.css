@@ -27,8 +27,8 @@ ol {
 ul {
   list-style-type: none;
   margin: 30px;
-  width: 200px;
-	padding: 14px;
+  width: 500px;
+	padding: 14px 14px;
   overflow: hidden;
   border: 0.5em dotted silver;
   border-radius: 10px 45px;
