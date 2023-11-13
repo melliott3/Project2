@@ -27,7 +27,7 @@ ol {
 ul {
   list-style-type: none;
   margin: 30px;
-  width: 500px;
+  width: 600px;
 	padding: 14px 14px;
   overflow: hidden;
   border: 0.5em dotted silver;
@@ -42,7 +42,7 @@ li {
   float: center;
 }
 
-a {
+li, a {
   display: block;
   color: black;
   text-align: center;
