@@ -137,6 +137,7 @@ p {
 .uranium, 
 .headshot, 
 .plant {
+  float: left;
   width: 200px;
   height: 250px;
 }
@@ -146,7 +147,7 @@ img {
   height: 250px;
   border: 8px inset black;
   border-radius: 5px;
-  float: center;
+  float: left;
   margin-top: 30px;
   margin-bottom: 20px;
   margin-right: 45px;
