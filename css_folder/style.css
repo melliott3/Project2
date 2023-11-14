@@ -26,7 +26,10 @@ ol {
 
 ul {
   list-style-type: none;
-  margin: 3px;
+  margin-left: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 35px;
   width: 600px;
   padding: 4px 4px;
   overflow: hidden;
